@@ -1,3 +1,7 @@
+% Evald Liachovič
+% DISfm-20
+% 3 lab. darbas
+
 x = [0.1:1/22:1];
 d = (1+0.6*sin(2*pi*x/0.7)+0.3*sin(2*pi*x))/2;
 
